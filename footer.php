@@ -2,7 +2,7 @@
 
 				<div id="inner-footer" class="wrap cf">
 
-					<?php /* Uncomment this and the 'Footer Links' menu registration in template.php to use. 
+					<?php /* Uncomment this and the 'Footer Links' menu registration in functions.php to use. 
 					Or delete it if you're not using it.
 
 					<nav role="navigation">
